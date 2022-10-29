@@ -10,7 +10,7 @@ border : nowrapped
 neighbors : grid(-1,-1) grid(-1,0) grid(-1,1)
 neighbors : grid(0,-1)  grid(0,0)  grid(0,1)
 neighbors : grid(1,-1)  grid(1,0)  grid(1,1)
-initialvalue : 3
+initialvalue : 0
 initialCellsValue : majority.val
 localtransition : majority-rule
 
